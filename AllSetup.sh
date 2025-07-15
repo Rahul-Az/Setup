@@ -1,4 +1,4 @@
-cat << 'EOF' > install_jenkins.sh
+cat << 'EOF'  install_jenkins.sh
 #!/usr/bin/env bash
 set -e
 
