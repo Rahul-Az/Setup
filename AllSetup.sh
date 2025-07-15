@@ -28,3 +28,5 @@ sudo systemctl enable --now jenkins
 
 echo "Waiting for Jenkins to initialize..."
 sleep 10
+
+EOF
